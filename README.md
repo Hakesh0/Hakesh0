@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
+<p align="center">
+  <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Hacker GIF" width="250"/>
+</p>
+
+<p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge.</p>
+
 - 📫 How to reach me **mhakesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +31,11 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
