@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://jollycontrarian.com/index.php?title=File:Matrix_rain.gif" alt="Matrix Rain GIF" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
 <p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge. I'm also engaging in CTF practices to sharpen my skills.</p>
-
+<br>
 <div>
   <div style="float: left;">
     - 📫 How to reach me **mhakesh@gmail.com** <br>
@@ -49,6 +46,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakesh0&show_icons=true&locale=en" alt="hakesh0" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakesh0&" alt="hakesh0" />
