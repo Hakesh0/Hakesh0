@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://samu.space/assets/code%20rain.gif" alt="Matrix Rain GIF" />
+  <img src="https://jollycontrarian.com/index.php?title=File:Matrix_rain.gif" alt="Matrix Rain GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
@@ -23,7 +23,16 @@ Here are some ideas to get you started:
 
 <p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge. I'm also engaging in CTF practices to sharpen my skills.</p>
 
-- 📫 How to reach me **mhakesh@gmail.com**
+<div>
+  <div style="float: left;">
+    - 📫 How to reach me **mhakesh@gmail.com** <br>
+    - 🌱 I’m currently learning CYBER SECURITY
+  </div>
+  <div style="float: right;">
+    <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFldjRneHBjMWJtcXZnMmJ0anU5OTZwdHB3a3h4dTJiZmR0ZGVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
