@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <br>
 <div>
   <div style="float: left; text-align: left;">
-    <p>- 📫 How to reach me <strong style="font-size: 18px; color: #0000FF; text-decoration: underline; text-shadow: 1px 1px 2px #000000;">mhakesh@gmail.com</strong></p>
+    <p>- 📫 How to reach me <a href="mailto:mhakesh@gmail.com" style="font-size: 18px; color: #0000FF; text-decoration: underline; text-shadow: 1px 1px 2px #000000;">mhakesh@gmail.com</a></p>
     <p>- 🌱 I’m currently learning <strong style="font-size: 18px; color: #FF5733; text-shadow: 1px 1px 2px #000000;">CYBER SECURITY</strong></p>
 </div>
+
 
 
 
