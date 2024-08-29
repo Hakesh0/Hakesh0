@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Hacker GIF" width="250"/>
-</p>
-
-<p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge.</p>
+<p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge. I'm also engaging in CTF practices to sharpen my skills.</p>
 
 - 📫 How to reach me **mhakesh@gmail.com**
 
@@ -38,9 +34,9 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</p> 
+</p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakesh0&show_icons=true&locale=en" alt="hakesh0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakesh0&" alt="hakesh0" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakesh0&show_icons=true&locale=en" alt="hakesh0" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakesh0&" alt="hakesh0" />
+</p>
