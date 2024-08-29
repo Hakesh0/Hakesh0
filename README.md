@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://jollycontrarian.com/index.php?title=File:Matrix_rain.gif" alt="Matrix Rain GIF" />
+  <img src="https://samu.space/assets/code%20rain.gif" alt="Matrix Rain GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
