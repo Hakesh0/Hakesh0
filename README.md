@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 <p align="center">I'm currently a college student with a deep interest in cybersecurity. I'm actively studying and exploring various aspects of the field to build my skills and knowledge. I'm also engaging in CTF practices to sharpen my skills.</p>
 <br>
 <div>
-  <div style="float: left;">
-    - 📫 How to reach me **mhakesh@gmail.com** <br>
-    - 🌱 I’m currently learning CYBER SECURITY
-  </div>
+  <div style="float: left; text-align: left;">
+    <p>- 📫 How to reach me <strong style="font-size: 18px; color: #0000FF; text-decoration: underline; text-shadow: 1px 1px 2px #000000;">mhakesh@gmail.com</strong></p>
+    <p>- 🌱 I’m currently learning <strong style="font-size: 18px; color: #FF5733; text-shadow: 1px 1px 2px #000000;">CYBER SECURITY</strong></p>
+</div>
+
+
+
+
   <div style="float: right;">
     <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFldjRneHBjMWJtcXZnMmJ0anU5OTZwdHB3a3h4dTJiZmR0ZGVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
