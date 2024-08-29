@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://jollycontrarian.com/index.php?title=File:Matrix_rain.gif" alt="Matrix Rain GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hakesh M</h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
