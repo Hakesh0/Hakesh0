@@ -25,11 +25,7 @@ Here are some ideas to get you started:
     <p>- 📫 How to reach me <a href="mailto:mhakesh@gmail.com" style="font-size: 18px; color: #0000FF; text-decoration: underline; text-shadow: 1px 1px 2px #000000;">mhakesh@gmail.com</a></p>
     <p>- 🌱 I’m currently learning <strong style="font-size: 18px; color: #FF5733; text-shadow: 1px 1px 2px #000000;">CYBER SECURITY</strong></p>
 </div>
-
-
-
-
-
+  
   <div style="float: right;">
     <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFldjRneHBjMWJtcXZnMmJ0anU5OTZwdHB3a3h4dTJiZmR0ZGVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
